@@ -1,3 +1,3 @@
 # MyLibrary
 
-A description of this package.
+A simple swift package for UI sharing demonstration. See ASingleButton repository
